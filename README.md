@@ -1,4 +1,4 @@
-# DemoForLoops
+# DemoLoops
 Loops in Java
 >> When you know the number of iterations a logic going to run then we use "FOR LOOP".
 >> Syntax: for(Intitalization;Condition;Increment/Decrement){}
